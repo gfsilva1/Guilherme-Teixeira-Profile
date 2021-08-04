@@ -1,0 +1,23 @@
+body {
+  background-color: grey;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: blue;
+  font-size: 12px;
+  line-height: 12px ;
+}
+
+h1 {
+ color:blueviolet;
+ font-family: yellow;
+ font-size: 9px;
+ line-height: 12px;
+}
+
+a {
+  color:green;
+  hover
+}
+
+a:hover {
+  text-decoration: underline;
+}
